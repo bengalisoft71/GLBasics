@@ -15,7 +15,7 @@ int main() {
     {
         /* Render here */
         glClear(GL_COLOR_BUFFER_BIT);
-        glClearColor(184.0f/255.0f, 213.0f/255.0f, 238.0f/255.0f, 1.0f);
+        glClearColor(185.0f/255.0f, 213.0f/255.0f, 238.0f/255.0f, 1.0f);
         /* Swap front and back buffers */
         window.swapBuffers();
 
