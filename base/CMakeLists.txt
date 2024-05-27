@@ -3,7 +3,7 @@ project(base)
 find_package(OpenGL REQUIRED)
 
 
-add_library(base include/base/GLWindow.h src/GLWindow.cc)
+add_library(base include/base/glwindow.h src/glwindow.cc)
 
 target_compile_definitions(base
     PUBLIC

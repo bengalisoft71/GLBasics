@@ -1,4 +1,4 @@
-#include<base/GLwindow.h>
+#include<base/glwindow.h>
 #include<glad/glad.h>
 #include<cstdio>
 
